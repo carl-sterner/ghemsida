@@ -1,0 +1,1 @@
+ladda upp demo.csv under /sida med "import data" knappen
